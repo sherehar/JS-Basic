@@ -53,7 +53,7 @@ for (let i=0; i < X.length; i++){
 console.log(X);
 
 
-//Number to String
+//8. Number to String
 let X= [-1,4,-3,1,-15];
 let i=0;
 while (i < X.length ){
